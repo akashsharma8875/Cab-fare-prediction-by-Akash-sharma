@@ -1,0 +1,6 @@
+Using the python Command
+To run Python scripts with the python command, you need to open a command-line and type in the word python , or python3 if you have both versions, followed by the path to your script. just simply run the code using in any python interperator. Run or debug option can be used for script notation and command.if you are using jupyter to run the .ipynb file. simple press shift+enter and the code will be executed immediately.
+thank you
+AkAsh ShArma
+Edwisor
+
